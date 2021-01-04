@@ -5,7 +5,7 @@ const fs = require('fs')
 const welcome = require('./counters/welcome');
 const goodbye = require('./counters/goodbye');
 
-const token = process.env.token;
+const token = "NzkyMTI0NTA1MDIyNjYwNjQ5.X-ZJbg.AxjSqR_qtz8Tgo9EvPfP8vQHwZg"
 
 const prefix = '!';
 
